@@ -1,0 +1,4 @@
+Este é um texto de exemplo criado para a atividade no GitHub.
+O objetivo é praticar o uso de repositórios, commits e versionamento de arquivos.
+Através desta atividade, estou aprendendo a enviar arquivos, fazer alterações e registrar o histórico do meu projeto.
+Essa prática é essencial para o desenvolvimento de habilidades em controle de versão e colaboração em projetos de software.
